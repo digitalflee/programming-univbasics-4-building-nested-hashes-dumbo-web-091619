@@ -21,9 +21,9 @@ b_hash = {:railroads => {
    },
    :names => {
      :reading_railroad => {}, 
-     :plug2 => "12", 
-     :plug3 => "13", 
-     :plug4 => "14"
+     :pennsylvania_railroad => {},
+     :plug3 => {}, 
+     :plug4 => {}
    },
    :one_piece_owned => {:fee => 25}
  } 
