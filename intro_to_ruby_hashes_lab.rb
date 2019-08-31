@@ -12,7 +12,8 @@ end
 
 def monopoly_with_third_tier
 b_hash = {:railroads => {
-   :pieces => 4
+   :pieces => 4,
+   :rent_in_dollars => {}
  } 
 	}
 end
