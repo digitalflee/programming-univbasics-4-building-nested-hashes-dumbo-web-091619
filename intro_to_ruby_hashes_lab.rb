@@ -22,7 +22,7 @@ end
 def monopoly_with_fourth_tier
 b_hash = {:railroads => {
    :rent_in_dollars => {
-     :names => {}} 
+     :names => 1} 
 	}
 }
 end
