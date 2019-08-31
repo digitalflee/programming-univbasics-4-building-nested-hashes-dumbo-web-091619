@@ -21,6 +21,7 @@ b_hash = {:railroads => {
  } 
 	}
 }
+}
 end
 
 def monopoly_with_fourth_tier
