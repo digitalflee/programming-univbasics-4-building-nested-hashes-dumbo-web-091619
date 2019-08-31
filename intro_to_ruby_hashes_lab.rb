@@ -22,7 +22,7 @@ b_hash = {:railroads => {
    :names => {
      :reading_railroad => {}, 
      :pennsylvania_railroad => {},
-     :plug3 => {}, 
+     :b_and_o_railroad => {}, 
      :plug4 => {}
    },
    :one_piece_owned => {:fee => 25}
