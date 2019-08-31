@@ -16,8 +16,8 @@ b_hash = {:railroads => {
    :rent_in_dollars => {
      :one_piece_owned => 25, 
      :two_pieces_owned => 50, 
-     :three_pieces_owned => 75, 
-     :four_pieces_owned => 100
+     :three_pieces_owned => 100, 
+     :four_pieces_owned => 200
    },
    :names => {:plug => "11", :plug2 => "12", :plug3 => "13", :plug4 => "14"},
    :one_piece_owned => {:fee => 25}
