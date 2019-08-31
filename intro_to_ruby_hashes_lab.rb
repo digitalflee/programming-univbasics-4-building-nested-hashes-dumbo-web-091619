@@ -19,7 +19,12 @@ b_hash = {:railroads => {
      :three_pieces_owned => 100, 
      :four_pieces_owned => 200
    },
-   :names => {:plug => "11", :plug2 => "12", :plug3 => "13", :plug4 => "14"},
+   :names => {
+     :reading_railroad => {}, 
+     :plug2 => "12", 
+     :plug3 => "13", 
+     :plug4 => "14"
+   },
    :one_piece_owned => {:fee => 25}
  } 
 }
